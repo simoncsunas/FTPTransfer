@@ -1,0 +1,7 @@
+C:\_CSH\sTRANSFER\sTRANSFER\bin\Debug\sTRANSFER.exe
+C:\_CSH\sTRANSFER\sTRANSFER\bin\Debug\sTRANSFER.pdb
+C:\_CSH\sTRANSFER\sTRANSFER\obj\Debug\ResolveAssemblyReference.cache
+C:\_CSH\sTRANSFER\sTRANSFER\obj\Debug\sTRANSFER.Properties.Resources.resources
+C:\_CSH\sTRANSFER\sTRANSFER\obj\Debug\sTRANSFER.csproj.GenerateResource.Cache
+C:\_CSH\sTRANSFER\sTRANSFER\obj\Debug\sTRANSFER.exe
+C:\_CSH\sTRANSFER\sTRANSFER\obj\Debug\sTRANSFER.pdb
